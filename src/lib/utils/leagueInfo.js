@@ -168,7 +168,7 @@ export const managers = [
     {
       "managerID": "606325198504935424",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Stearns",
-      "location": "Southington, CT", // (optional)
+      "location": "Plainville, CT", // (optional)
       "bio": "",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
